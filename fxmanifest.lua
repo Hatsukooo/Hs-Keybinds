@@ -6,4 +6,4 @@ client_scripts {
     'client.lua',
 }
 
-export 'RegisterKeybind'
+export 'RegisterKeyMap'
